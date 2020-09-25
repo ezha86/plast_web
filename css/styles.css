@@ -1316,7 +1316,7 @@ input[type='checkbox'] {
 /*     12. Projects     */
 /************************/
 .filter {
-	padding-top: 6.5rem;
+	/*padding-top: 6.5rem;*/
 	padding-bottom: 7rem;
 }
 
@@ -1645,7 +1645,6 @@ input[type='checkbox'] {
 .form-2 {
 	padding-top: 6.625rem;
 	padding-bottom: 5.625rem;
-	background-color: #fbfbfb;
 }
 
 .form-2 .text-container {
@@ -2371,7 +2370,7 @@ a:hover.back-to-top {
 	/* Projects */
 	.filter .element-item {
 		width: 17.3125rem; /* to eliminate grid overflow problem on hard refresh */
-		height: 16.875rem;
+		/*height: 16.875rem;*/
 	}
 
 	.filter .element-item .element-item-overlay span {
